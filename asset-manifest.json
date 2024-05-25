@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dhanashri-k/static/css/main.25a59b6c.css",
+    "main.js": "/dhanashri-k/static/js/main.43fa6f5f.js",
+    "static/js/453.1407b060.chunk.js": "/dhanashri-k/static/js/453.1407b060.chunk.js",
+    "index.html": "/dhanashri-k/index.html",
+    "main.25a59b6c.css.map": "/dhanashri-k/static/css/main.25a59b6c.css.map",
+    "main.43fa6f5f.js.map": "/dhanashri-k/static/js/main.43fa6f5f.js.map",
+    "453.1407b060.chunk.js.map": "/dhanashri-k/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a59b6c.css",
+    "static/js/main.43fa6f5f.js"
+  ]
+}
