@@ -36,7 +36,7 @@ const Footer = () => {
           <li className="ms-3">
             <a
               className="text-light"
-              href="https://drive.google.com/file/d/1Ch9lpE2pOsybqCRXQ4th1WoLCODJ6N2v/view?usp=sharing"
+              href="https://drive.google.com/file/d/12sec0tryRjiqqnU9ihHvVMIYCcAxOPKX/view?usp=sharing"
             >
               <button className="btn btn-dark">Check CV</button>
             </a>
