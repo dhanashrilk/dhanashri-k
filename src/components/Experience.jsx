@@ -85,26 +85,19 @@ const Experience = () => {
                   </h6>
                   <div className="card-body">
                     <ul className="card-text list-disc">
-                      VDC is Vijaya Diagnostic Centre is front-end delivery
-                      interface for consumers to get a wide range of diagnostic
-                      services including pathology, radiology, cardiology and
-                      imaging services etc. Slot from the application, book
-                      various Health packages and purchase Medicines based on
-                      advice. •Interacted closely with UX team about
-                      requirements.
                       <li>
-                        Developed fully Responsive Web Design from figma files.
+                        Closely Interacted with UX team about requirements.
+                      </li>
+                      <li>Converted PSD to HTML Code with effective Design.</li>{" "}
+                      <li>
+                        Added HTML, CSS, Bootstrap, SCSS and JavaScript code to
+                        make it fully responsive compatible with desktop, tab
+                        and mobile interface.
                       </li>{" "}
                       <li>
-                        Developed fully Responsive Web Design from figma files.
-                      </li>{" "}
-                      <li>
-                        Added CSS media queries for mobile screens. •Worked on
-                        Navigation menu using React-Router.
-                      </li>{" "}
-                      <li>
-                        Worked with API calls to fetch data and Display
-                        available appointment slots for date and time.
+                        Worked on Navigation menu using React-Router. •Worked on
+                        API calls to fetch data and Display available
+                        appointment slots for date and time.
                       </li>{" "}
                       <li>
                         Worked on Redux for enhancing scalability and
@@ -116,11 +109,11 @@ const Experience = () => {
                         techniques.
                       </li>{" "}
                       <li>
-                        Worked with API calls to fetch data and Display
+                        Worked on RESTful API calls to fetch data and Display
                         available appointment slots for date and time.
-                      </li>{" "}
+                      </li>
                       <li>
-                        Worked on Redux for enhancing scalability and
+                        Implemented Redux for enhancing scalability and
                         maintainability.
                       </li>{" "}
                       <li>
@@ -129,7 +122,7 @@ const Experience = () => {
                       </li>{" "}
                       <li>
                         Worked on NEXT JS migration project from version 9 to
-                        Next JS version 13 in with Tailwind CSS
+                        Next JS version 13 in with Tailwind CSS.
                       </li>{" "}
                       <li>Verified components with unit testing.</li>
                     </ul>
