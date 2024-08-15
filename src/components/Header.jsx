@@ -8,9 +8,9 @@ import { MdCastForEducation } from "react-icons/md";
 
 const Header = () => {
   return (
-    <div className="container">
-      <nav className="navbar navbar-expand-lg">
-        <div className="container-fluid">
+    <>
+      <nav className="navbar navbar-expand-lg navbar-fixed-top">
+        <div className="container">
           <a className="navbar-brand" href="#">
             Dhanashri K.
           </a>
@@ -83,7 +83,7 @@ const Header = () => {
           </div>
         </div>
       </nav>
-    </div>
+    </>
   );
 };
 

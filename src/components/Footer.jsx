@@ -33,14 +33,6 @@ const Footer = () => {
               <RxGithubLogo />
             </a>
           </li>
-          <li className="ms-3">
-            <a
-              className="text-light"
-              href="https://drive.google.com/file/d/12sec0tryRjiqqnU9ihHvVMIYCcAxOPKX/view?usp=sharing"
-            >
-              <button className="btn btn-dark">Check CV</button>
-            </a>
-          </li>
         </ul>
       </footer>
     </div>

@@ -21,6 +21,15 @@ const About = () => {
               experiences and have a strong understanding of usability and
               accessibility standards.
             </h5>
+            <div className="wrapper">
+              <a
+                href="https://drive.google.com/file/d/12sec0tryRjiqqnU9ihHvVMIYCcAxOPKX/view?usp=sharing"
+                target="_blank"
+                className="btn6"
+              >
+                MY RESUME
+              </a>
+            </div>
           </div>
           <div className="col-sm-6">
             <img src="./img/7.png" alt="" className="h-auto w-100" />
